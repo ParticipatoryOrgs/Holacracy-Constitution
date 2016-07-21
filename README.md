@@ -5,7 +5,7 @@
 The Holacracy Constitution documents the core rules, structure, and processes of the Holacracy “operating system” for governing and managing an organization. It provides the foundation for an organization wishing to use Holacracy, by anchoring the shift of power required in concrete and documented “rules of the game”, which everyone involved can rely upon.
 
 ### How is the Holacracy Constitution intended to be used?
-The Constitution is intended to be referenced by whatever declaration or agreement captures the decision to organize using the Holacracy system. That may be a formal set of legal bylaws or similar operating agreement, or a simple board resolution or CEO policy declaration similar to the <a href="https://github.com/holacracyone/Holacracy-Constitution/blob/master/Adoption%20Declaration%20Sample.pdf" target="_blank">sample one attached here</a>. See Article V for key adoption-related matters. Also note that this explanatory page and the sample declaration are included for informative purposes but are not parts of the core Constitution document.
+The Constitution is intended to be referenced by whatever declaration or agreement captures the decision to organize using the Holacracy system. That may be a formal set of legal bylaws or similar operating agreement, or a simple board resolution or CEO policy declaration similar to the <a href="https://github.com/holacracyone/Holacracy-Constitution/blob/master/Adoption%20Declaration%20Sample.pdf" target="_blank">sample one attached here</a>. See Article V for key adoption-related matters. Also note that this explanatory page and the sample declaration are included for informative purposes but are not part of the core Constitution document.
 
 ### What the Holacracy Constitution isn’t
 The Holacracy Constitution is **not a complete set of legal bylaws or a formal operating agreement**. (HolacracyOne separately publishes its own operating agreement as an example of a legal governing document that references and incorporates this Constitution.)
@@ -19,9 +19,9 @@ HolacracyOne is not a law firm. The information contained herein is documentatio
 Like Linux®, Wikipedia®, and Java®, Holacracy® is a registered trademark; in this case, of HolacracyOne LLC. And like other stewards of open platforms, HolacracyOne aims to maintain the integrity of its brand and the quality of what it represents. So, we invite you to make and share your own derivative works of the Holacracy® Constitution, per the terms of our open-source CC BY-SA 4.0 license, and to reference that your work is derived from the official Holacracy Constitution - please include a link to http://holacracy.org/constitution. However, beyond that reference, you may not name or otherwise brand your derivative work using the Holacracy mark, to avoid confusion between your version and the official Holacracy document. If you have any questions, please <a href="http://www.holacracy.org/contact/" target="_blank">contact HolacracyOne</a>!
 
 ### Contributors
-Up to version 4.0, the Holacracy Constitution had been developed by Brian Robertson and HolacracyOne. 
+Up to version 4.0, the Holacracy Constitution was developed by Brian Robertson and HolacracyOne. 
 
-Contributors to the current version are Brian Robertson, Rashid Gilanpour, Alexia Bowers, djwork, Martin Röll, Olivier Compagne, Koen Veltman, Mieke Byerley, Diederick Janse, Karilen Mays, Bernard Marie Chiquet and Tim Kelley.
+Contributors to the current version are Brian Robertson, Rashid Gilanpour, Alexia Bowers, djwork, Martin Röll, Olivier Compagne, Koen Veltman, Mieke Byerley, Diederick Janse, Karilen Mays, Bernard Marie Chiquet, Tim Kelley, Dien Kwik and Kræn Hansen.
 
 ---
 
@@ -29,25 +29,25 @@ Contributors to the current version are Brian Robertson, Rashid Gilanpour, Alexi
 
 ---
 
-# TABLE OF CONTENTS
+# Table of Contents
 
-#### [Article I: Energizing Roles] (https://github.com/holacracyone/Holacracy-Constitution/blob/master/Holacracy-Constitution.md#article-i-energizing-roles)
+#### [Article 1: Energizing Roles] (https://github.com/holacracyone/Holacracy-Constitution/blob/master/Holacracy-Constitution.md#article-i-energizing-roles)
 
 A role is Holacracy's core building block for organizational structure. This article covers the basic authorities and duties conveyed to a partner filling a role.
 
-#### [Article II: Circle Structure] (https://github.com/holacracyone/Holacracy-Constitution/blob/master/Holacracy-Constitution.md#article-ii-circle-structure)
+#### [Article 2: Circle Structure] (https://github.com/holacracyone/Holacracy-Constitution/blob/master/Holacracy-Constitution.md#article-ii-circle-structure)
 
 A circle contains and integrates many roles. This article describes how a circle is structured, and how the roles within it are assigned, elected, or formed into further sub-circles.
 
-#### [Article III: Governance Process] (https://github.com/holacracyone/Holacracy-Constitution/blob/master/Holacracy-Constitution.md#article-iii-governance-process)
+#### [Article 3: Governance Process] (https://github.com/holacracyone/Holacracy-Constitution/blob/master/Holacracy-Constitution.md#article-iii-governance-process)
 
 A circle's governance process is used to define its roles and policies. This article defines the governance process and the ground rules for proposing changes or objecting to proposals.
 
-#### [Article IV: Operational Process] (https://github.com/holacracyone/Holacracy-Constitution/blob/master/Holacracy-Constitution.md#article-iv-operational-process)
+#### [Article 4: Operational Process] (https://github.com/holacracyone/Holacracy-Constitution/blob/master/Holacracy-Constitution.md#article-iv-operational-process)
 
 The circle members of a circle rely on each other to help get their operational work done. This article covers the duties of circle members with respect to supporting one another, and how tactical meetings work.
 
-#### [Article V: Adoption Matters] (https://github.com/holacracyone/Holacracy-Constitution/blob/master/Holacracy-Constitution.md#article-v-adoption-matters)
+#### [Article 5: Adoption Matters] (https://github.com/holacracyone/Holacracy-Constitution/blob/master/Holacracy-Constitution.md#article-v-adoption-matters)
 
 This article deals with the transition from pre-Holacracy to operating under the Constitution, and provides rules when adopting Holacracy within a board structure with a group of representatives in lieu of a single Lead Link.
 

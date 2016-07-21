@@ -1,6 +1,6 @@
 #**Appendix A**
 
-##Definition of Core Roles
+##Pre-Defined Roles
 
 
 ###Lead Link
@@ -8,7 +8,9 @@
 **Purpose:**
 _The Lead Link holds the Purpose of the overall Circle._
 
-**Domains:** Role assignments within the Circle
+**Domains:**
+
+- Role assignments within the Circle
 
 **Accountabilities:**
 

@@ -5,7 +5,7 @@
 The Holacracy Constitution documents the core rules, structure, and processes of the Holacracy “operating system” for governing and managing an organization. It provides the foundation for an organization wishing to use Holacracy, by anchoring the shift of power required in concrete and documented “rules of the game”, which everyone involved can rely upon.
 
 ### How is the Holacracy Constitution intended to be used?
-The Constitution is intended to be referenced by whatever declaration or agreement captures the decision to organize using the Holacracy system. That may be a formal set of legal bylaws or similar operating agreement, or a simple board resolution or CEO policy declaration similar to the <a href="https://github.com/holacracyone/Holacracy-Constitution/blob/master/Adoption%20Declaration%20Sample.pdf" target="_blank">sample one attached here</a>. See Article V for key adoption-related matters. Also note that this explanatory page and the sample declaration are included for informative purposes but are not part of the core Constitution document.
+The Constitution is intended to be referenced by whatever declaration or agreement captures the decision to organize using the Holacracy system. That may be a formal set of legal bylaws or similar operating agreement, or a simple board resolution or CEO policy declaration similar to the <a href="https://github.com/holacracyone/Holacracy-Constitution/blob/master/Adoption%20Declaration.md" target="_blank">sample one attached here</a>. See Article V for key adoption-related matters. Also note that this explanatory page and the sample declaration are included for informative purposes but are not part of the core Constitution document.
 
 ### What the Holacracy Constitution isn’t
 The Holacracy Constitution is **not a complete set of legal bylaws or a formal operating agreement**. (HolacracyOne separately publishes its own operating agreement as an example of a legal governing document that references and incorporates this Constitution.)
@@ -21,39 +21,31 @@ Like Linux®, Wikipedia®, and Java®, Holacracy® is a registered trademark; in
 ### Contributors
 Up to version 4.0, the Holacracy Constitution was developed by Brian Robertson and HolacracyOne. 
 
-Contributors to the current version are Brian Robertson, Rashid Gilanpour, Alexia Bowers, djwork, Martin Röll, Olivier Compagne, Koen Veltman, Mieke Byerley, Diederick Janse, Karilen Mays, Bernard Marie Chiquet, Tim Kelley, Dien Kwik and Kræn Hansen.
-
----
-
-#### An always up to date compiled PDF of the Holacracy Constitution - Development Version (<a href="https://github.com/holacracyone/Holacracy-Constitution/blob/master/Holacracy-Constitution.md" target="_blank">Holacracy-Constitution.md</a>) is available <a href="https://gitprint.com/holacracyone/Holacracy-Constitution/blob/master/Holacracy-Constitution.md" target="_blank">HERE</a>
+Contributors to v4.1 include Brian Robertson, Rashid Gilanpour, Alexia Bowers, djwork, Martina Röll, Olivier Compagne, Koen Veltman, Mieke Byerley, Diederick Janse, Karilen Mays, Bernard Marie Chiquet, Tim Kelley, Dien Kwik, Kræn Hansen and Jeffrey Anthony.
 
 ---
 
 # Table of Contents
 
-#### [Article 1: Energizing Roles] (https://github.com/holacracyone/Holacracy-Constitution/blob/master/Holacracy-Constitution.md#article-i-energizing-roles)
+#### [Article 1: Organizational Structure](https://github.com/holacracyone/Holacracy-Constitution/blob/master/Holacracy-Constitution.md#article-1-organizational-structure)
 
-A role is Holacracy's core building block for organizational structure. This article covers the basic authorities and duties conveyed to a partner filling a role.
+A role is Holacracy's core building block for organizational structure, and a circle contains and integrates many roles. This article covers how roles and circles are structured and connected.
 
-#### [Article 2: Circle Structure] (https://github.com/holacracyone/Holacracy-Constitution/blob/master/Holacracy-Constitution.md#article-ii-circle-structure)
+#### [Article 2: Operations](https://github.com/holacracyone/Holacracy-Constitution/blob/master/Holacracy-Constitution.md#article-2-operations)
 
-A circle contains and integrates many roles. This article describes how a circle is structured, and how the roles within it are assigned, elected, or formed into further sub-circles.
+Filling a role conveys certain authorities and responsibilities, as well as duties to fellow team members. This article covers those authorities and expectations, as well as the tactical meeting process used to coordinate operational work.
 
-#### [Article 3: Governance Process] (https://github.com/holacracyone/Holacracy-Constitution/blob/master/Holacracy-Constitution.md#article-iii-governance-process)
+#### [Article 3: Governance](https://github.com/holacracyone/Holacracy-Constitution/blob/master/Holacracy-Constitution.md#article-3-governance)
 
 A circle's governance process is used to define its roles and policies. This article defines the governance process and the ground rules for proposing changes or objecting to proposals.
 
-#### [Article 4: Operational Process] (https://github.com/holacracyone/Holacracy-Constitution/blob/master/Holacracy-Constitution.md#article-iv-operational-process)
-
-The circle members of a circle rely on each other to help get their operational work done. This article covers the duties of circle members with respect to supporting one another, and how tactical meetings work.
-
-#### [Article 5: Adoption Matters] (https://github.com/holacracyone/Holacracy-Constitution/blob/master/Holacracy-Constitution.md#article-v-adoption-matters)
+#### [Article 4: Adoption Matters](https://github.com/holacracyone/Holacracy-Constitution/blob/master/Holacracy-Constitution.md#article-4-adoption-matters)
 
 This article deals with the transition from pre-Holacracy to operating under the Constitution, and provides rules when adopting Holacracy within a board structure with a group of representatives in lieu of a single Lead Link.
 
 ---
 
-#### For More Information or Support with the Holacracy System: <a href="http://Holacracy.org" target="_blank">Holacracy.org</a>
+#### For More Information or Support with the Holacracy System: <a href="http://holacracy.org" target="_blank">holacracy.org</a>
 
 ---
 
